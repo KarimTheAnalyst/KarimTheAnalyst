@@ -11,22 +11,27 @@ Focused on identifying root causes of yield loss, reducing defects and scrap, an
 
 
 ### Core Skills
-- SQL (PostgreSQL): data modeling, staging tables, root cause analysis
-- Excel & Power Query: data cleaning, transformation, KPI analysis
-- Power BI: manufacturing dashboards, quality & yield monitoring
-- Manufacturing analytics: defect analysis, scrap & rework, process improvement
+- Manufacturing data modeling (fact/dimension, production analytics)
+- Root cause analysis (yield loss, defects, scrap, rework)
+- SQL (PostgreSQL): KPI calculation, trend analysis, defect analysis
+- Excel & Power Query: data cleaning, transformation, KPI reporting
+- Power BI: manufacturing dashboards (yield, quality, process monitoring)
 
 ###  Domain Experience
-- Electronics manufacturing (HDI PCB as a high-complexity example)
-- Quality & reliability analysis
+- Electronics manufacturing (HDI PCB, multilayer, high-complexity production)
+- Manufacturing processes: drilling, lamination, plating, surface finishing
+- Quality & reliability analysis (defects, process variation, failure patterns)
 - Process optimization in production and R&D environments
-
-
 
 ###  Featured Projects
 - **Root Cause Analysis in Manufacturing (SQL / PostgreSQL)** – defect drivers, yield impact, and cost analysis (HDI PCB case)
 - **Manufacturing KPI Dashboard (Power BI)** – executive and operational views (HDI PCB case)
 
+## What I Deliver
+- Identify root causes of yield loss and defects
+- Monitor manufacturing KPIs (yield, scrap, rework, delays)
+- Build dashboards for real-time process visibility
+- Support data-driven process improvement and cost reduction
 
  LinkedIn: www.linkedin.com/in/abdelkarim-mars-152570b5
  Email : karimupds@gmail.com
