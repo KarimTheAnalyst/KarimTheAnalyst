@@ -6,8 +6,7 @@ Manufacturing Data Analyst | Quality Data Analyst | Process Improvement Analyst 
 
 I design and analyze manufacturing data solutions to improve yield, reduce defects, optimize processes, and support data-driven decisions in industrial environments.
 
-I am a Manufacturing / R&D Data Analyst with a background in physics, industrial R&D, and complex electronics manufacturing environments (including HDI PCB).  
-I focus on using data to improve **quality, yield, process stability, and cost** in manufacturing operations.
+Manufacturing / R&D Data Analyst with a PhD in Physics and 5+ years of experience in electronics manufacturing (HDI PCB).
 
 
 ### Core Skills
